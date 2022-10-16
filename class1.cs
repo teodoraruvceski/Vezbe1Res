@@ -1,4 +1,4 @@
-class C
+abstract class C
 {
 
 }
