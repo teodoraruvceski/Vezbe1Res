@@ -1,4 +1,4 @@
-private class C
+public class C
 {
 
 }
