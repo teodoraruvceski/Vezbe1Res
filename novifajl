@@ -1,4 +1,4 @@
-private class A{
+internal class A{
 
 int count;
 
