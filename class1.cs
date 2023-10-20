@@ -1,4 +1,4 @@
-private interface C
+internal class C
 {
 
 }
