@@ -1,4 +1,4 @@
-internal class C
+static public class C
 {
 
 }
