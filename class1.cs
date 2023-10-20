@@ -1,4 +1,5 @@
-private interface C
+
+class B
 {
 
 }
