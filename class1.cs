@@ -1,4 +1,4 @@
-public abstract class C
+public  class C
 {
 
 }
